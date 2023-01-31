@@ -1,0 +1,172 @@
+sys-kernel/genkernel
+
+sys-boot/systemd-boot
+
+media-gfx/blender
+media-gfx/openscad
+
+# file indexing
+sys-apps/mlocate
+
+# Btrfs filesystem tools
+sys-fs/btrfs-progs
+
+# DHCP client
+net-misc/dhcpcd
+
+# s2ram
+sys-power/suspend
+
+# firmware/microcode
+sys-kernel/linux-firmware
+
+# Nvidia GPU drivers
+x11-drivers/nvidia-drivers
+dev-util/nvidia-cuda-toolkit
+media-plugins/nvidia-vaapi-driver https://gpo.zugaina.org/media-plugins/nvidia-vaapi-driver
+
+# QEMU/KVM virtual machines
+libvirt
+app-emulation/virt-manager
+app-emulation/qemu
+bridge-utils
+it
+
+# authorization toolkit
+polkit
+
+# message bus system
+sys-apps/dbus
+
+# network time protocol
+net-misc/chrony
+
+# cron daemon
+sys-process/dcron
+
+# logging
+app-admin/sysklogd
+
+# firewall
+net-firewall/nftables
+
+# automount
+sys-apps/udevil
+
+# btrfs snapshots
+snazzer
+
+# shells
+app-shells/fish
+app-shells/dash
+
+# programming languages and corresponding package managers
+python3-devel
+rust
+cargo
+
+# xorg meta-package
+xorg
+
+# compositor
+x11-misc/picom
+
+# pipewire
+media-video/pipewire # https://docs.voidlinux.org/config/media/pipewire.html
+media-video/wireplumber # https://youtu.be/Zv1P6-kUn0c
+
+# pipewire patchbay
+qpwgraph
+
+# pipewire effects
+media-sound/easyeffects # https://github.com/jaakkopasanen/AutoEq
+
+# terminal emulator
+x11-terms/kitty # multiplexing
+
+# dwm, dmenu, slock dependencies
+libX11
+libXft
+libXinerama
+freetype
+fontconfig
+terminus-font
+
+# browser
+librewolf https://gitlab.com/librewolf-community/browser/gentoo.git # https://ffprofile.com/ https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly Firefox Home Default https://restoreprivacy.com/firefox-privacy/ https://wiki.archlinux.org/title/Firefox/Privacy
+
+# steam client
+games-util/steam-launcher
+
+app-emulation/proton-ge-custom-bin https://gpo.zugaina.org/app-emulation/proton-ge-custom-bin
+
+gui-wm/gamescope
+
+games-emulation/dolphin
+
+games-emulation/yuzu https://gpo.zugaina.org/games-emulation/yuzu
+
+# file manager
+app-misc/lfm
+
+# simple X image viewer
+media-gfx/nsxiv http://gpo.zugaina.org/media-gfx/nsxiv
+
+# text editor
+app-editors/neovim
+
+# media player
+media-video/mpv
+
+media-video/ffmpeg
+
+# Hide mouse cursor
+x11-misc/unclutter-xfixes
+
+# tool for controlling X11 clipboard
+x11-misc/xclip
+
+# tool for scripting X11 actions
+x11-misc/xdotool
+
+# simple x background setter
+x11-misc/xwallpaper
+
+# Simple X Hotkey Daemon
+x11-misc/sxhkd
+
+# parallel compression utility to replace gzip
+app-arch/pigz
+app-arch/p7zip
+
+# parallel FTP/HTTP downloader
+net-misc/axel
+
+# fetch programs
+neofetch
+pfetch
+ufetch
+
+# temp/voltage/fan sensors utility
+lm_sensors
+
+# gpu process monitor
+nvtop
+
+# interactive process viewer
+htop
+
+# recursive directory listing program
+tree
+
+# command line fuzzy finder
+fzf
+
+# better ls
+exa
+
+git
+curl
+
+https://gitlab.com/brinkervii/grapejuice
+https://github.com/jD91mZM2/xidlehook

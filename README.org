@@ -1,2 +1,1 @@
-* dotfiles
-** aconfmgr, stow, and, notes. 😎
+* dotfiles - aconfmgr, stow, and, notes. 😎

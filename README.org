@@ -1,4 +1,5 @@
 * dotfiles - aconfmgr, stow, and, notes. 😎
 ** Firefox
-[[https://wiki.archlinux.org/title/Firefox#GNOME_integration][GNOME Integration]]
-[[https://mullvad.net/en/help/socks5-proxy#get-started][Mullvad SOCKS5 proxy]]
+*** [[https://github.com/yokoffing/Betterfox][Setup Betterfox]]
+*** [[https://wiki.archlinux.org/title/Firefox#GNOME_integration][GNOME Integration]]
+*** [[https://mullvad.net/en/help/socks5-proxy#get-started][Mullvad SOCKS5 proxy]]

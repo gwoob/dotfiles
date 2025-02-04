@@ -1,1 +1,3 @@
 * dotfiles - aconfmgr, stow, and, notes. 😎
+** Firefox
+[[https://wiki.archlinux.org/title/Firefox#GNOME_integration][GNOME Integration]]

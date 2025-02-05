@@ -6,4 +6,4 @@
 *** [[./images/uBlock.png][Enable Extra uBlock Origin Filter Lists]]
 *** [[./images/FastForward.png][FastForward Settings]]
 *** [[./images/LibRedirect.png][LibRedirect Settings]]
-*** [[./images/Exceptions.png][Exempt Apple Music Cookies and Site Data]]
+*** [[./images/Exceptions.png][Exempt Apple Music in Cookies and Site Data]]

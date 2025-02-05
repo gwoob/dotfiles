@@ -1,10 +1,10 @@
 * dotfiles - aconfmgr, stow, and, notes. 😎
 ** Firefox
-*** [[https://github.com/yokoffing/Betterfox][Setup Betterfox]]
+*** [[https://github.com/yokoffing/Betterfox][Betterfox]]
 *** [[https://wiki.archlinux.org/title/Firefox#GNOME_integration][GNOME file picker integration]]
-*** [[https://wiki.archlinux.org/title/Firefox#GNOME_search_provider][Enable built-in GNOME search provider]]
+*** [[https://wiki.archlinux.org/title/Firefox#GNOME_search_provider][GNOME search provider]]
 *** [[https://mullvad.net/en/help/socks5-proxy#get-started][Mullvad SOCKS5 proxy]]
-*** [[./images/uBlock.png][Enable extra uBlock Origin filter lists]]
-*** [[./images/FastForward.png][Tweak FastForward settings]]
-*** [[./images/LibRedirect.png][Tweak LibRedirect settings]]
+*** [[./images/uBlock.png][Extra uBlock Origin filter lists]]
+*** [[./images/FastForward.png][FastForward settings]]
+*** [[./images/LibRedirect.png][LibRedirect settings]]
 *** [[./images/Exceptions.png][Exempt Apple Music in "Cookies and Site Data"]]

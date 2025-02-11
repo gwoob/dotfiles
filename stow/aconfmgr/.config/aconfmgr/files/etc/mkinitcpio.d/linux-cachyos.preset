@@ -1,0 +1,7 @@
+# mkinitcpio preset file for the 'linux-cachyos' package
+
+ALL_kver="/boot/vmlinuz-linux-cachyos"
+
+PRESETS=('default')
+
+default_uki="/efi/EFI/Linux/arch-linux-cachyos.efi"

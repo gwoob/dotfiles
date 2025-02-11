@@ -1,0 +1,10 @@
+# https://github.com/CachyOS/CachyOS-Settings/blob/master/usr/lib/systemd/system/pci-latency.service
+[Unit]
+Description=Adjust latency timers for PCI peripherals
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/pci-latency
+
+[Install]
+WantedBy=multi-user.target
